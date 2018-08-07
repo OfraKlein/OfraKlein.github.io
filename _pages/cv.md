@@ -11,49 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.Sc. in Sociology, VU University Amsterdam (2014)
+* M.Sc. in Sociology, VU University Amsterdam (2015)
+* M.Sc. in Political Science, Leiden University (2016)
+* M.Sc. (advanced master) in Digital Humanities, KU Leuven (2017)
+* M.Sc. (research master) in Political and Social Sciences, European University Institute (2018)
+* Ph.D in Political and Social Sciences, European University Institute (present)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2016: Research Assistant
+  * Berkman Klein Center
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2013-2016: Teaching- and Research Assistant
+  * VU University Amsterdam
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* To be added
